@@ -91,3 +91,25 @@ h1{
     font-size:18px;
     line-height:1.8;
     }
+#skills{
+    margin-top:80px;
+    padding:40px;
+}
+
+#skills h2{
+    color:#58a6ff;
+}
+
+#skills ul{
+    list-style:none;
+    padding:0;
+}
+
+#skills li{
+    background:#161b22;
+    margin:10px auto;
+    padding:15px;
+    max-width:500px;
+    border-radius:8px;
+    border-left:5px solid #58a6ff;
+                             }
