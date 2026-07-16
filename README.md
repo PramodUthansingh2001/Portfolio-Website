@@ -58,3 +58,11 @@ Portfolio-Website/
 ├── resume/
 │   └── Resume.pdf
 └── README.md
+
+Portfolio-Website/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+│── images/
+│── assets/
