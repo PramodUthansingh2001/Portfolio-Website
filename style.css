@@ -139,3 +139,19 @@ h1{
 .project p{
     color:#c9d1d9;
     }
+#resume,
+#contact{
+    margin-top:80px;
+    padding:40px;
+}
+
+#resume h2,
+#contact h2{
+    color:#58a6ff;
+}
+
+#contact p{
+    color:#c9d1d9;
+    font-size:18px;
+    margin:12px 0;
+    }
