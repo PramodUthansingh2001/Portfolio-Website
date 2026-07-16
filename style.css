@@ -1,0 +1,22 @@
+style.css
+body {
+    background-color: #0d1117;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 50px;
+}
+
+h1 {
+    color: #58a6ff;
+    font-size: 42px;
+}
+
+h2 {
+    color: #c9d1d9;
+}
+
+p {
+    font-size: 20px;
+}
