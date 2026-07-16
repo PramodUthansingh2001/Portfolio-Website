@@ -37,6 +37,14 @@ Portfolio-Website/
 │
 ├── index.html
 ├── about.html
+
+Portfolio-Website/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+│── images/
+│── assets/
 ├── projects.html
 ├── skills.html
 ├── resume.html
