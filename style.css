@@ -56,18 +56,20 @@ h1{
 
 .btn{
     display:inline-block;
-    margin:15px;
     padding:12px 25px;
-    background:#238636;
+    margin:10px;
+    background:#58a6ff;
     color:white;
     text-decoration:none;
     border-radius:8px;
-    font-weight:bold;
+    transition:0.3s;
 }
 
 .btn:hover{
-    background:#2ea043;
+    background:#1f6feb;
+    transform:translateY(-3px);
 }
+
 .profile-photo{
     width:180px;
     height:180px;
