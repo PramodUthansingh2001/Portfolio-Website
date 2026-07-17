@@ -185,3 +185,10 @@ h1{
 .certificate p{
     color:#c9d1d9;
 }
+footer{
+    margin-top:80px;
+    padding:30px;
+    background:#161b22;
+    color:#c9d1d9;
+    text-align:center;
+    }
