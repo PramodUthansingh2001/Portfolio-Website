@@ -239,3 +239,12 @@ footer{
     color:#ffffff;
     transform:scale(1.2);
 }
+
+#typing{
+    color:#58a6ff;
+    font-weight:bold;
+}
+
+.highlight{
+    color:#58a6ff;
+}
