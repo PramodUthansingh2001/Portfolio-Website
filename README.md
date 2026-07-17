@@ -109,3 +109,23 @@ Electronics & Communication Engineer
 
 GitHub:
 https://github.com/PramodUthansingh2001
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PramodUthansingh2001&show_icons=true&theme=github_dark)
+
+![](https://komarev.com/ghpvc/?username=PramodUthansingh2001&color=blue)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodUthansingh2001&layout=compact&theme=github_dark)
+
+## 💻 Technologies
+
+![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge)
+
+![Arduino](https://img.shields.io/badge/Arduino-IoT-green?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge)
+
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge)
