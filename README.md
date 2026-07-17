@@ -66,3 +66,46 @@ Portfolio-Website/
 │── README.md
 │── images/
 │── assets/
+# 🌐 Personal Portfolio Website
+
+## 📖 Overview
+
+This is my personal portfolio website showcasing my education, technical skills, projects, certifications, and contact information.
+
+## 🚀 Features
+
+- Responsive Design
+- About Me
+- Technical Skills
+- Projects
+- Certifications
+- Contact Information
+- GitHub Pages Deployment
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- GitHub Pages
+
+## 📂 Project Structure
+
+Portfolio-Website/
+│── index.html
+│── style.css
+│── README.md
+│── images/
+│ └── profile.jpg
+
+## 🔗 Live Website
+
+https://pramoduthansingh2001.github.io/Portfolio-Website/
+
+## 👨‍💻 Author
+
+**Pramod Uthansingh**
+
+Electronics & Communication Engineer
+
+GitHub:
+https://github.com/PramodUthansingh2001
