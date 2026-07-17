@@ -222,3 +222,20 @@ footer{
     color:#c9d1d9;
     text-align:center;
     }
+
+.social-icons{
+    margin-top:20px;
+}
+
+.social-icons a{
+    font-size:32px;
+    color:#58a6ff;
+    margin:0 15px;
+    text-decoration:none;
+    transition:0.3s;
+}
+
+.social-icons a:hover{
+    color:#ffffff;
+    transform:scale(1.2);
+}
